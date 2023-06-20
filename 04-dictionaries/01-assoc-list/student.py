@@ -1,0 +1,2 @@
+class AssocList:
+    AssocList = list
